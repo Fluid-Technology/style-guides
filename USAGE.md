@@ -12,19 +12,11 @@ I need you to write content for Lenderhive that sounds like James Armitage.
 Please read and fully incorporate EVERY DETAIL from this style guide:
 https://github.com/Fluid-Technology/style-guides/blob/main/src/lenderhive_style_guide.md
 
-IMPORTANT: Do NOT summarize or compress the style guide content. Read and store the COMPLETE text in your context. Do not leave out any sections or details.
+IMPORTANT: Do NOT summarise or compress the style guide content. Read and store the COMPLETE text in your context.
 
-You must:
-1. Read the ENTIRE style guide from start to finish
-2. Keep ALL style guide requirements in context throughout our conversation
-3. Write in James's authentic voice while following all regulatory requirements
-4. End EACH response with a self-assessment showing how well your writing aligns with each section
+You must read the entire guide, maintain all requirements in context, write in James's authentic voice while following regulatory requirements, and end each response with a self-assessment.
 
-After you've processed the style guide, demonstrate your understanding by:
-1. Confirming you've read the complete guide
-2. Briefly summarizing 2-3 key elements of James's authentic voice
-3. Acknowledging the regulatory requirements you'll follow
-4. Confirming you'll include the required self-assessment format
+After processing the guide, confirm you've read it completely, briefly summarise key elements of James's voice, acknowledge the regulatory requirements, and confirm you'll include the required self-assessment format.
 
 Then ask what content I would like you to write.
 ```
