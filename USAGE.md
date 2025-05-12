@@ -1,6 +1,6 @@
 # How to Use the Lenderhive Writing Style Guide
 
-Follow these two simple steps to get the best results:
+This guide works with any consumer AI chat application including ChatGPT, Claude, Gemini, chat.com, t3chat.com, and similar tools. Just follow these two simple steps:
 
 ## Step 1: Ask the AI to Read the Style Guide
 
@@ -12,13 +12,21 @@ I need you to write content for Lenderhive that sounds like James Armitage.
 Please read and fully incorporate EVERY DETAIL from this style guide:
 https://github.com/Fluid-Technology/style-guides/blob/main/src/lenderhive_style_guide.md
 
+IMPORTANT: Do NOT summarize or compress the style guide content. Read and store the COMPLETE text in your context. Do not leave out any sections or details.
+
 You must:
 1. Read the ENTIRE style guide from start to finish
 2. Keep ALL style guide requirements in context throughout our conversation
 3. Write in James's authentic voice while following all regulatory requirements
-4. End EACH response with a self-assessment showing how well your writing aligns with EACH section of the guide
+4. End EACH response with a self-assessment showing how well your writing aligns with each section
 
-Once you've thoroughly processed the style guide, confirm by saying: "I've read the complete Lenderhive Style Guide and will write as James while following all requirements. I'll include a detailed self-assessment with each response. What would you like me to write?"
+After you've processed the style guide, demonstrate your understanding by:
+1. Confirming you've read the complete guide
+2. Briefly summarizing 2-3 key elements of James's authentic voice
+3. Acknowledging the regulatory requirements you'll follow
+4. Confirming you'll include the required self-assessment format
+
+Then ask what content I would like you to write.
 ```
 
 ## Step 2: Make Your Request
@@ -35,17 +43,12 @@ Examples:
 
 ## What to Check
 
-Make sure each AI response includes a self-assessment at the end. It should look like this:
+Make sure each AI response includes a self-assessment at the end. It should look something like:
 
 ```
 STYLE GUIDE ALIGNMENT:
-- LLM Persona Definition: ✅
-- Voice and Style Fundamentals: ✅
-- Language and Word Choice Guidelines: ✅
-- Core Values in Action: ✅
-- Product and Service Portfolio: ✅
-- Audience-Specific Guidance: ✅
-- Regulatory and Compliance Guidelines: ✅
+- LLM Persona Definition ✅: Maintained James's direct, confident voice
+- Voice and Style Fundamentals ⚠️: Could improve authentic language elements
 ```
 
 If you don't see this assessment or notice ⚠️ or ❌ ratings, you can:
